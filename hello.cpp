@@ -1,6 +1,6 @@
 secondclone-1
-n2
-n2
+n3
+n3
 east
 //version 7 from master
 /mult/nextlineaaaa
